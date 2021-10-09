@@ -1,5 +1,5 @@
 # Pair-Sums
-My solution to Facebook's  coding prep question " Pair Sums". Passes their own test cases.  
+My solution to Facebook's  coding prep question " Pair Sums". Passes all test cases.  
 
 "Pair Sums
 Given a list of n integers arr[0..(n-1)], determine the number of different pairs of elements within it which sum to k.
